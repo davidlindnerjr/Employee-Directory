@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Scott",
+        "role": "Manager",
+        "department": "management",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png"
+    },
+    {
+        "id": 2,
+        "name": "Dwight Schrute",
+        "role": "Assistant To The Regional Manager",
+        "department": "sales",
+        "image": "https://img.nbc.com/sites/nbcunbc/files/images/2013/11/12/dwight-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim Halpert",
+        "role": "Salesman",
+        "department": "sales",
+        "image": "https://4.bp.blogspot.com/-hI6c522l5A0/Vq8gOKkw_yI/AAAAAAAAENs/dsSV-msQacU/s1600/Jim.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Stanley Hudson",
+        "role": "Salesman",
+        "department": "sales",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-office-leslie-david-baker.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phyllis Vance",
+        "role": "Salesman",
+        "department": "sales",
+        "image": "https://img.nbc.com/sites/nbcunbc/files/metaverse_assets/1/0/6/3/4/5/phyllis-500x500.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Andy Bernard",
+        "role": "Salesman",
+        "department": "sales",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAxm1S_vwderp2ZbluWbXOd3O3vYtq0My8mw&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "Pam Beesley",
+        "role": "Receptionist",
+        "department": "reception",
+        "image": "https://media.architecturaldigest.com/photos/58f52055af560d04a46dba3b/3:4/w_1181,h_1574,c_limit/GettyImages-141187430%20(1).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Erin Hannon",
+        "role": "Receptionist",
+        "department": "reception",
+        "image": "https://www.lehighvalleylive.com/resizer/mmEIgv-UR_79Zj0iu-ALr2zWNSI=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.lehighvalleylive.com/home/lvlive-media/width2048/img/tv_impact/photo/erinjpg-e7a9e059ad6ac4e6.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Kevin Malone",
+        "role": "Accountant",
+        "department": "accounting",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJBBdWOyZsygPAi763xjDAcwQCa-PJTj-jZg&usqp=CAU"
+    },
+    {
+        "id": 10,
+        "name": "Oscar Martinez",
+        "role": "Accountant",
+        "department": "accounting",
+        "image": "https://i.pinimg.com/originals/ed/73/b6/ed73b64b3a545549cfb3ead6f32388f8.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Angela Martin",
+        "role": "Accountant",
+        "department": "accounting",
+        "image": "https://openpsychometrics.org/tests/characters/test-resources/pics/TO/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Daryl Philbin",
+        "role": "Foreman",
+        "department": "warehouse",
+        "image": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/LN3xxM3kq.png?output-format=auto&output-quality=auto&downsize=400:*"
+    },
+    {
+        "id": 13,
+        "name": "Creed Bratton",
+        "role": "Quality Assurer",
+        "department": "quality assurance",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-office-creed-bratton.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Meredith Palmer",
+        "role": "Supply and Relations Representative",
+        "department": "supply and relations",
+        "image": "https://i.pinimg.com/originals/37/f2/f2/37f2f2ce0194098045d3df6dfd2df67b.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Kelly Kapoor",
+        "role": "Customer Service Representative",
+        "department": "customer service",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-office-mindy-kaling.jpg"
+    }
+]
