@@ -9,8 +9,11 @@ So far I am having a lot of fun with React; I can easily say that it is my favor
 ## Screenshots
 
 ![Employee Directory - Google Chrome 11_9_2020 6_30_52 PM](https://user-images.githubusercontent.com/65383133/98620339-fa62b880-22b9-11eb-93b8-b8e1c0c82d48.png)
+
 ![Employee Directory - Google Chrome 11_9_2020 6_31_32 PM](https://user-images.githubusercontent.com/65383133/98620344-fc2c7c00-22b9-11eb-87df-65cbecf5bb20.png)
+
 ![Employee Directory - Google Chrome 11_9_2020 6_31_40 PM](https://user-images.githubusercontent.com/65383133/98620348-fe8ed600-22b9-11eb-9179-9cfdf9482660.png)
+
 ![Employee Directory - Google Chrome 11_9_2020 6_31_49 PM](https://user-images.githubusercontent.com/65383133/98620351-00589980-22ba-11eb-8bb3-5746d6ea266b.png)
 
 ## Deployed Application
