@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Employee Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Employee tracker is an application that allows the use to filter and view their employees based on the department. For example, if the user selects "All" then all of the employees will be shown, if "Management" is selected then the employees in the management department will be shown, etc. The employee is displayed with a picture of the employee, their role in the company, and the department they fall under.
 
-## Available Scripts
+The application utilizes React to dynamically render the employees depending on the user selection. The employees are rendered by using the "useState" and "useEffect" hooks; I found it to be the most graceful way to go about using only one function to get the input value of the user, sending it to the useState and setting the new filtered "employees" array from there. useEffect allowed me to render all of the employees by default when the application first loads.
 
-In the project directory, you can run:
+So far I am having a lot of fun with React; I can easily say that it is my favorite thing that I have leanred in this bootcamp as of yet and am very excited to learn more about it.
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Employee Directory - Google Chrome 11_9_2020 6_30_52 PM](https://user-images.githubusercontent.com/65383133/98620339-fa62b880-22b9-11eb-93b8-b8e1c0c82d48.png)
+![Employee Directory - Google Chrome 11_9_2020 6_31_32 PM](https://user-images.githubusercontent.com/65383133/98620344-fc2c7c00-22b9-11eb-87df-65cbecf5bb20.png)
+![Employee Directory - Google Chrome 11_9_2020 6_31_40 PM](https://user-images.githubusercontent.com/65383133/98620348-fe8ed600-22b9-11eb-9179-9cfdf9482660.png)
+![Employee Directory - Google Chrome 11_9_2020 6_31_49 PM](https://user-images.githubusercontent.com/65383133/98620351-00589980-22ba-11eb-8bb3-5746d6ea266b.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Deployed Application
 
-### `npm test`
+* https://davidlindnerjr.github.io/Employee-Directory/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### `npm run build`
+Copyright (c) 2020 David Lindner
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
